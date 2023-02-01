@@ -7,6 +7,7 @@
   background-size: cover;
   background-position: bottom;
   color: white;
+  font-family: "Chonburi", Arial, Helvetica, sans-serif;
   background-image: url(https://as1.ftcdn.net/v2/jpg/02/75/96/80/1000_F_275968081_cPWAqyJPAkGJ7zro36uD62Mu87a2jq2B.jpg);
   position: relative !important;
 }
@@ -53,7 +54,7 @@
 }
 
 .weather-card {
-  width: 160px;
+  width: 149px;
   background-color: var(--purple);
   color: white;
   text-align: center;
